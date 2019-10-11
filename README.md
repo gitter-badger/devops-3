@@ -1,4 +1,7 @@
 # devops
+
+[![Join the chat at https://gitter.im/dbwebb-se/devops](https://badges.gitter.im/dbwebb-se/devops.svg)](https://gitter.im/dbwebb-se/devops?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 DevOps i folkmun är det oftast bara att man har continous integration och deployment. Saker sker automatiskt.
 Men den faktiska innebörden är mer filosofisk och handlar om sammarbetet mellar organisationer och avdelningar på en arbetsplats.
 Det innebär inte specifikt att som utvecklare ska man också hålla på med Ops delen på ett företag, det är egentligen mer att man ska ha ett bra sammarbete med Ops avdelningen.
